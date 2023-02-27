@@ -1,0 +1,1 @@
+This is the GitHub repository for all code relating to the robot arm project of the ESU Computer Science Organization.
